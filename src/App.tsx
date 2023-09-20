@@ -1,7 +1,7 @@
 import React from 'react'
 
 function App() {
-  return <h1 className="text-sm text-red-800"> Hello world!</h1>
+  return <p> Hello World!</p>
 }
 
 export default App
