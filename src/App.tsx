@@ -37,14 +37,14 @@ function App() {
   }, [])
 
   return (
-    <div className="w-full h-full flex flex-col">
+    <div className="w-full h-full flex flex-col bg-blue-500 sm:bg-pattern-desktop bg-pattern-mobile bg-no-repeat">
       <Modal
         isOpen={modalOpen}
         onClose={handleModalClose}
         information={information}
       />
 
-      <div className="flex flex-col items-center justify-center w-full h-72 gap-10 sm:bg-pattern-desktop bg-pattern-mobile bg-no-repeat bg-cover">
+      <div className="flex flex-col items-center justify-center w-full h-72 gap-10">
         {' '}
         <p className="text-white text-2xl font-medium tracking-wide text-center">
           Rastreador de endereço IP
@@ -57,7 +57,7 @@ function App() {
             type="text"
           />
           <button
-            className="bg-black hover:bg-gray-900 w-10 h-10 flex items-center rounded-r-lg  justify-center "
+            className="bg-black hover:bg-gray-900 w-10 h-10 flex items-center rounded-r-lg justify-center "
             onClick={handleModalOpen}
           >
             <img src={arrowRight} alt="seta para direita" />{' '}
