@@ -24,7 +24,8 @@ Os usuários devem ser capazes de:
 
 ### Captura de Tela
 
-![Captura de Tela](./public/captura.PNG)
+![preview de como ficou o projeto](./public/captura.jpg)
+
 
 ### Links
 
