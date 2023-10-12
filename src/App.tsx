@@ -46,14 +46,14 @@ function App() {
 
       <div className="flex flex-col items-center justify-center w-full h-72 gap-10 sm:bg-pattern-desktop bg-pattern-mobile bg-no-repeat bg-cover">
         {' '}
-        <p className="text-white text-2xl font-medium tracking-wide">
+        <p className="text-white text-2xl font-medium tracking-wide text-center">
           Rastreador de endereço IP
         </p>
-        <div className="flex  ">
+        <div className="flex">
           <input
             value={information?.ip}
             placeholder="000.000.000.000"
-            className="w-60 h-10 rounded-l-lg p-4 tracking-widest placeholder:p-2 "
+            className="w-full sm:w-60 h-10 rounded-l-lg p-4 tracking-widest placeholder:p-2 "
             type="text"
           />
           <button
