@@ -47,4 +47,3 @@ Os usuários devem ser capazes de:
 - Mentor de Frontend - [@Guivieirasilva](https://www.frontendmentor.io/profile/Guivieirasilva)
 - LinkedIn - [Guilherme Vieira](https://www.linkedin.com/in/guilherme-vieira-silva/)
 - GitHub - [Guivieirasilva](https://github.com/Guivieirasilva)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7c078a5f-6292-4624-b8be-d44ad58f40d1/deploy-status)](https://app.netlify.com/sites/precious-frangollo-20f629/deploys)

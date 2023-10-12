@@ -15,4 +15,5 @@ export default defineConfig({
   define: {
     ...envKeys,
   },
+  base: '/IP-Address-Tracker',
 })
