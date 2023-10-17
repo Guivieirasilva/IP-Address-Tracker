@@ -37,7 +37,7 @@ function App() {
   }, [])
 
   return (
-    <div className="w-full h-full flex flex-col bg-blue-500 sm:bg-pattern-desktop bg-pattern-mobile bg-no-repeat">
+    <div className="w-full h-full flex flex-col bg-blue-600 bg-pattern-mobile sm:bg-pattern-desktop bg-no-repeat">
       <Modal
         isOpen={modalOpen}
         onClose={handleModalClose}
