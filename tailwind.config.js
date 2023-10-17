@@ -10,7 +10,8 @@ module.exports = {
       backgroundImage: {
         'pattern-desktop': "url('./src/assets/images/pattern-bg-desktop.png')",
         'pattern-mobile': "url('./src/assets/images/pattern-bg-mobile.png')",
-    }},
+      },
+    },
   },
   plugins: [],
 }
