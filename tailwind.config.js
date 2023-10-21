@@ -8,8 +8,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'pattern-desktop': "url('./src/assets/images/pattern-bg-desktop.png')",
-        'pattern-mobile': "url('./src/assets/images/pattern-bg-mobile.png')",
+        'pattern-desktop': "url('/src/assets/images/pattern-bg-desktop.png')",
+        'pattern-mobile': "url('/src/assets/images/pattern-bg-mobile.png')",
       },
     },
   },
