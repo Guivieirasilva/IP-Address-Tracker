@@ -65,7 +65,7 @@ function App() {
         </div>
         <div />
       </div>
-      <div className="w-full h-[80vh] z-10">
+      <div className="w-full h-[100vh] mt-[-10px] z-10">
         <Map />
       </div>
     </div>
