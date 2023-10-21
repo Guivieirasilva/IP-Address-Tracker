@@ -65,7 +65,7 @@ const Modal: React.FC<ModalProps> = ({ isOpen, onClose, information }) => {
                 style={{ transition: 'all .15s ease' }}
                 onClick={onClose}
               >
-                Close
+                Fechar
               </button>
             </div>
           </div>
